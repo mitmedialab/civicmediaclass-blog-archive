@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Introduction to Civic Media - ECPv5.1.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Introduction to Civic Media
+X-ORIGINAL-URL:https://civicmediaclass.mit.edu
+X-WR-CALDESC:Events for Introduction to Civic Media
+END:VCALENDAR
